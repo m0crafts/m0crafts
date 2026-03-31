@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://raw.githubusercontent.com/moedris/moedris/master/header.svg)
+![header](https://raw.githubusercontent.com/moedris/moedris/master/_header.svg)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3000&pause=1000&color=8b949e&center=true&vCenter=true&width=560&lines=I+build+things.;REST+APIs+%7C+WebSockets+%7C+Real-time+architectures.;Go+%26+TypeScript+%E2%80%94+backend+%26+frontend.;Always+learning+from+first+principles." alt="Typing SVG" />
 
